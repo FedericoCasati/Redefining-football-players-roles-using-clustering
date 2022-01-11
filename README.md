@@ -9,7 +9,7 @@ The results of this ML project, thus developed, should not be intended as groupi
 Different applications of a similar clustering model can help answer several questions: 
 
 - From a tactical point of view: what kind of players are best suited to a particular style of play?; which players can best complement each other?; how has a player evolved over the years?; how does one league differ from another, based on the players who play in these?; how has the game evolved over the years?
-- From a managerial point of view: what kind of players is it advisable to monitor through scouting to meet the needs of the technical area?
+- From a managerial point of view: what kind of players is it advisable to monitor through scouting and eventually invest in to meet the needs of the technical area?
 
 **Possible improvements**
 
